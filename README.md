@@ -1,2 +1,2 @@
 # hy-ohtuwebcounter
-Course work
+This repository contains course work.
