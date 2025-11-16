@@ -1,0 +1,6 @@
+__pycache__
+*.log
+output.xml
+log.html
+report.html
+cheatsheet.txt
